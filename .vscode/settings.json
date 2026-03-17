@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./lab_boto3/lab_"
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}
